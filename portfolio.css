@@ -10,7 +10,7 @@
 }
 
 html{
-    cursor: url("cursor.png"), default;
+    cursor: url(file:///incomplete%20portfolio%20site/cursor.png), auto;
 }
 
 :root{
@@ -462,7 +462,7 @@ button:hover::after{
 
     .heroSection .image{
         position: relative;
-        display: flex;
+        display: none;
         justify-content: center;
         align-items: center;
     }
