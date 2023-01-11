@@ -1,0 +1,1 @@
+gsap.from('.introBox', {opacity: 0, duration: 7, y = 0, ease: 'power4.out'})
